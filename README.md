@@ -1,4 +1,5 @@
-# Situated Knowledges and Partial Perspectives:  A Framework for Radical Objectivity in Computational Social Science and Computational Humanities
+# Situated Knowledges and Partial Perspectives: 
+## A Framework for Radical Objectivity in Computational Social Science and Computational Humanities
 
 Welcome! This repository includes the data and code needed to reproduce the analyses and figures in the paper ["Situated Knowledges and Partial Perspectives:  A Framework for Radical Objectivity in Computational Social Science and Computational Humanities"](https://www.lauraknelson.com/publication/radical-objectivity/), published in *New Literary History* in June 2023.  
 
