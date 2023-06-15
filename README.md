@@ -8,7 +8,7 @@ Open version here: https://www.lauraknelson.com/publication/radical-objectivity/
 To run this code you will need:
 
     Python
-    The Python libraries gensin, pandas, numpy, matplotlib, and seaborn
+    The Python libraries gensin, pandas, numpy, sklearn, matplotlib, and seaborn
     Jupyter
 
 **** See the requirements.txt file for specific versions of the libraries used ****
